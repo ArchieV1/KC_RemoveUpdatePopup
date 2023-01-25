@@ -555,11 +555,8 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="RemoveUpdatePopup.cs" />
-        <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
-      <Content Include="after.png" />
-      <Content Include="before.png" />
       <Content Include="FakeCompiler.bat" />
       <Content Include="README.md" />
     </ItemGroup>
